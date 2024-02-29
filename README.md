@@ -10,7 +10,7 @@ Simply put, Caikit streamlines AI model management and makes it easy for you to 
 
 
 Mentee Assignment from IBM Advance AI @ Infinite Learning
-Course completion of Natural Language Processing with Hugging Face Transformers from CognitiveClass.ai
+Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
 ---
 ## Mentee Info
 ### Name : Zaky Khairul Fajar Arlya
