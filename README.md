@@ -1,4 +1,5 @@
-# Natural Language Processing with Hugging Face Transformers
+# Text Sentiment Analysis using Caikit and Hugging Face
+
 ## Author : Cognitive Class AI
 
 # Overview
